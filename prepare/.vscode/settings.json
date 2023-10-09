@@ -1,0 +1,7 @@
+{
+    "window.zoomlevel": 1,
+    "editor.fronsize": 18,
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.iconTheme":  "vscode-icons",
+    "editor.minimap.enabled":false
+}
