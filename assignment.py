@@ -1,6 +1,5 @@
 # operasi yang dapat dilakukan dengan penyingkatan
 # operasi di tambah dengan assignment
-
 a = 5 # adalah assigment
 ASSIGMENT = "ASSIGMENT".center(10,":")
 print("'"+ASSIGMENT+"'")
