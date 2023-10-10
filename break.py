@@ -15,4 +15,4 @@ while angka < 5:
     
     print("lanjut")
 print("sudah!")
-    
+     
