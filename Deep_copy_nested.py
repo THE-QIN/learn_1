@@ -42,5 +42,5 @@ data_2D[1][0] = 30
 print(f"data = {data_2D}")
 print(f"data copy = {data_2D_copy}")
 print(f"data deep = {data_2D_deepcopy}")
-
+ 
 
