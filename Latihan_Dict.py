@@ -27,7 +27,7 @@ data_mahasiswa = {}
 # TANGGAL_LAHIR =int(input("Tanggal Lahir (1-31) "))
 # mahasiswa['lahir'] = datetime.datetime(TAHUN_LAHIR,BULAN_LAHIR,TANGGAL_LAHIR)
 # print(mahasiswa)
-
+ 
 while True:
     os.system("cls") #untuk windows
     print(f"{'SELAMAT DATANG':^20}")
